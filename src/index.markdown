@@ -1,6 +1,5 @@
 ---
-layout: page
-title: index
+layout: home
 ---
 
 Hello World!
