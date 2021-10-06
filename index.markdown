@@ -2,8 +2,6 @@
 layout: home
 ---
 
-Hello World!
-
 ![R0007558.JPG](/images/R0007558.jpg)
 <!--
 absolute path is working but not the right way to do it
